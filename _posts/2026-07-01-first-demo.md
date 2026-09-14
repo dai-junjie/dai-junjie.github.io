@@ -1,6 +1,6 @@
 ---
 title: 先写一个 Demo
-date: 2026-07-01 17:35:00
+date: 2026-07-01 17:35:00 +0800
 tags:
   - demo
   - hexo
@@ -16,16 +16,23 @@ categories:
 - 先验证 GitHub Pages 的发布链路是通的
 - 后面再换主题、补页面、改样式
 
-## 接下来会做什么
+## 博客搭建流程
 
-- 增加新的文章
-- 调整主题和导航
-- 绑定自定义域名（如果需要）
+```mermaid
+graph TD
+    A[创建 Markdown 文章] --> B[Jekyll 构建静态页面]
+    B --> C[Git 推送到 GitHub]
+    C --> D[GitHub Pages 自动部署]
+    D --> E[用户访问 dai-junjie.github.io]
+    E --> F{满意?}
+    F -->|需要改| A
+    F -->|满意| G[继续写下一篇]
+```
 
 ## 本地预览
 
 ```bash
-npm run server
+bundle exec jekyll serve
 ```
 
 打开 `http://localhost:4000` 就能看到站点。

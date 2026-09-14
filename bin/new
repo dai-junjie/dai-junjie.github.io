@@ -1,0 +1,20 @@
+#!/bin/bash
+# Usage: bin/new 文章标题
+title="$*"
+[ -z "$title" ] && echo "Usage: bin/new 文章标题" && exit 1
+
+date=$(date +%Y-%m-%d)
+time=$(date "+%Y-%m-%d %H:%M:%S %z")
+slug=$(echo "$title" | sed 's/ /-/g; s/[\/\\:*?"<>|]//g')
+path="_posts/${date}-${slug}.md"
+
+cat > "$path" << EOF
+---
+title: $title
+date: $time
+tags:
+categories:
+---
+EOF
+
+echo "Created: $path"

@@ -1,7 +1,14 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache/
+vendor/
+Gemfile.lock
 .DS_Store
 Thumbs.db
 db.json
 *.log
+.obsidian/
 node_modules/
 public/
 .deploy*/
