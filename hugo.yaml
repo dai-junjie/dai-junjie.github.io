@@ -1,0 +1,79 @@
+baseURL: https://dai-junjie.github.io/
+title: "Junjie's Blog"
+theme: PaperMod
+defaultContentLanguage: zh
+locale: zh-CN
+hasCJKLanguage: true
+enableRobotsTXT: true
+disableKinds: [RSS]
+
+module:
+  mounts:
+    - {source: content, target: content}
+    - {source: _posts, target: content/posts}
+    - {source: static, target: static}
+    - {source: assets/images, target: static/assets/images}
+
+pagination:
+  pagerSize: 10
+
+taxonomies:
+  category: categories
+  tag: tags
+
+outputs:
+  home: [HTML, JSON]
+
+params:
+  env: production
+  author: daijunjie
+  description: 技术笔记与思考
+  defaultTheme: auto
+  disableThemeToggle: false
+  mainSections: [posts]
+  ShowReadingTime: true
+  ShowToc: true
+  TocOpen: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: false
+  ShowShareButtons: false
+  DateFormat: "2006-01-02"
+  comments: true
+  math: true
+  homeInfoParams:
+    Title: "Junjie's Blog"
+    Content: "系统 · 工程 · 研究。记录技术笔记与思考。"
+  socialIcons:
+    - name: github
+      url: https://github.com/dai-junjie
+    - name: email
+      url: mailto:junjiedai@zju.edu.cn
+  giscus:
+    repo: dai-junjie/dai-junjie.github.io
+    repoId: ""
+    category: Announcements
+    categoryId: ""
+    mapping: pathname
+
+menu:
+  main:
+    - {name: 首页, url: /, weight: 10}
+    - {name: 分类, url: /categories/, weight: 20}
+    - {name: 标签, url: /tags/, weight: 30}
+    - {name: 归档, url: /year-archive/, weight: 40}
+    - {name: 搜索, url: /search/, weight: 50}
+    - {name: 关于, url: /about/, weight: 60}
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)'], ['$', '$']]
+  highlight:
+    noClasses: false

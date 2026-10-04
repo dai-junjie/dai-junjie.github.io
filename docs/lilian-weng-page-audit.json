@@ -1,0 +1,1251 @@
+{
+  "checked_on": "2026-10-04",
+  "scope": "HTML template and asset inspection, not article subject-matter review",
+  "discovery": "112 sitemap records, 111 unique URLs, 12 additional pagination URLs",
+  "counts": {
+    "other": 7,
+    "post": 52,
+    "tag": 52,
+    "pagination": 12
+  },
+  "http_status_counts": {
+    "200": 123
+  },
+  "stylesheet_urls": [
+    "/assets/css/stylesheet.min.8e2f522e170c601ef0b359b6e27078d17e3020e1f4d928afdff4dae588c1e9e4.css"
+  ],
+  "search_index_count": 53,
+  "additional_page": "https://lilianweng.github.io/404.html",
+  "pages": [
+    {
+      "url": "https://lilianweng.github.io/",
+      "final_url": "https://lilianweng.github.io/",
+      "status": 200,
+      "type": "other",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/archives/",
+      "final_url": "https://lilianweng.github.io/archives/",
+      "status": 200,
+      "type": "other",
+      "title": "Archive | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/categories/",
+      "final_url": "https://lilianweng.github.io/categories/",
+      "status": 200,
+      "type": "other",
+      "title": "Categories | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/faq/",
+      "final_url": "https://lilianweng.github.io/faq/",
+      "status": 200,
+      "type": "other",
+      "title": "FAQ | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/page/2/",
+      "final_url": "https://lilianweng.github.io/page/2/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/page/3/",
+      "final_url": "https://lilianweng.github.io/page/3/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/page/4/",
+      "final_url": "https://lilianweng.github.io/page/4/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/page/5/",
+      "final_url": "https://lilianweng.github.io/page/5/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/page/6/",
+      "final_url": "https://lilianweng.github.io/page/6/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/",
+      "final_url": "https://lilianweng.github.io/posts/",
+      "status": 200,
+      "type": "other",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-06-21-overview/",
+      "final_url": "https://lilianweng.github.io/posts/2017-06-21-overview/",
+      "status": 200,
+      "type": "post",
+      "title": "An Overview of Deep Learning for Curious People | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-07-08-stock-rnn-part-1/",
+      "final_url": "https://lilianweng.github.io/posts/2017-07-08-stock-rnn-part-1/",
+      "status": 200,
+      "type": "post",
+      "title": "Predict Stock Prices Using RNN: Part 1 | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-07-22-stock-rnn-part-2/",
+      "final_url": "https://lilianweng.github.io/posts/2017-07-22-stock-rnn-part-2/",
+      "status": 200,
+      "type": "post",
+      "title": "Predict Stock Prices Using RNN: Part 2 | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-08-01-interpretation/",
+      "final_url": "https://lilianweng.github.io/posts/2017-08-01-interpretation/",
+      "status": 200,
+      "type": "post",
+      "title": "How to Explain the Prediction of a Machine Learning Model? | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-08-20-gan/",
+      "final_url": "https://lilianweng.github.io/posts/2017-08-20-gan/",
+      "status": 200,
+      "type": "post",
+      "title": "From GAN to WGAN | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/",
+      "final_url": "https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/",
+      "status": 200,
+      "type": "post",
+      "title": "Anatomize Deep Learning with Information Theory | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-10-15-word-embedding/",
+      "final_url": "https://lilianweng.github.io/posts/2017-10-15-word-embedding/",
+      "status": 200,
+      "type": "post",
+      "title": "Learning Word Embedding | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/",
+      "final_url": "https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/",
+      "status": 200,
+      "type": "post",
+      "title": "Object Detection for Dummies Part 1: Gradient Vector, HOG, and SS | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-12-15-object-recognition-part-2/",
+      "final_url": "https://lilianweng.github.io/posts/2017-12-15-object-recognition-part-2/",
+      "status": 200,
+      "type": "post",
+      "title": "Object Detection for Dummies Part 2: CNN, DPM and Overfeat | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/",
+      "final_url": "https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/",
+      "status": 200,
+      "type": "post",
+      "title": "Object Detection for Dummies Part 3: R-CNN Family | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/",
+      "final_url": "https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/",
+      "status": 200,
+      "type": "post",
+      "title": "The Multi-Armed Bandit Problem and Its Solutions | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-02-19-rl-overview/",
+      "final_url": "https://lilianweng.github.io/posts/2018-02-19-rl-overview/",
+      "status": 200,
+      "type": "post",
+      "title": "A (Long) Peek into Reinforcement Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-04-08-policy-gradient/",
+      "final_url": "https://lilianweng.github.io/posts/2018-04-08-policy-gradient/",
+      "status": 200,
+      "type": "post",
+      "title": "Policy Gradient Algorithms | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-05-05-drl-implementation/",
+      "final_url": "https://lilianweng.github.io/posts/2018-05-05-drl-implementation/",
+      "status": 200,
+      "type": "post",
+      "title": "Implementing Deep Reinforcement Learning Models with Tensorflow + OpenAI Gym | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-06-24-attention/",
+      "final_url": "https://lilianweng.github.io/posts/2018-06-24-attention/",
+      "status": 200,
+      "type": "post",
+      "title": "Attention? Attention! | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-08-12-vae/",
+      "final_url": "https://lilianweng.github.io/posts/2018-08-12-vae/",
+      "status": 200,
+      "type": "post",
+      "title": "From Autoencoder to Beta-VAE | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-10-13-flow-models/",
+      "final_url": "https://lilianweng.github.io/posts/2018-10-13-flow-models/",
+      "status": 200,
+      "type": "post",
+      "title": "Flow-based Deep Generative Models | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-11-30-meta-learning/",
+      "final_url": "https://lilianweng.github.io/posts/2018-11-30-meta-learning/",
+      "status": 200,
+      "type": "post",
+      "title": "Meta-Learning: Learning to Learn Fast | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/",
+      "final_url": "https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/",
+      "status": 200,
+      "type": "post",
+      "title": "Object Detection Part 4: Fast Detection Models | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-01-31-lm/",
+      "final_url": "https://lilianweng.github.io/posts/2019-01-31-lm/",
+      "status": 200,
+      "type": "post",
+      "title": "Generalized Language Models | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-03-14-overfit/",
+      "final_url": "https://lilianweng.github.io/posts/2019-03-14-overfit/",
+      "status": 200,
+      "type": "post",
+      "title": "Are Deep Neural Networks Dramatically Overfitted? | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-05-05-domain-randomization/",
+      "final_url": "https://lilianweng.github.io/posts/2019-05-05-domain-randomization/",
+      "status": 200,
+      "type": "post",
+      "title": "Domain Randomization for Sim2Real Transfer | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-06-23-meta-rl/",
+      "final_url": "https://lilianweng.github.io/posts/2019-06-23-meta-rl/",
+      "status": 200,
+      "type": "post",
+      "title": "Meta Reinforcement Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/",
+      "final_url": "https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/",
+      "status": 200,
+      "type": "post",
+      "title": "Evolution Strategies | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2019-11-10-self-supervised/",
+      "final_url": "https://lilianweng.github.io/posts/2019-11-10-self-supervised/",
+      "status": 200,
+      "type": "post",
+      "title": "Self-Supervised Representation Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/",
+      "final_url": "https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/",
+      "status": 200,
+      "type": "post",
+      "title": "Curriculum for Reinforcement Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/",
+      "final_url": "https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/",
+      "status": 200,
+      "type": "post",
+      "title": "The Transformer Family | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2020-06-07-exploration-drl/",
+      "final_url": "https://lilianweng.github.io/posts/2020-06-07-exploration-drl/",
+      "status": 200,
+      "type": "post",
+      "title": "Exploration Strategies in Deep Reinforcement Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2020-08-06-nas/",
+      "final_url": "https://lilianweng.github.io/posts/2020-08-06-nas/",
+      "status": 200,
+      "type": "post",
+      "title": "Neural Architecture Search | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2020-10-29-odqa/",
+      "final_url": "https://lilianweng.github.io/posts/2020-10-29-odqa/",
+      "status": 200,
+      "type": "post",
+      "title": "How to Build an Open-Domain Question Answering System? | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/",
+      "final_url": "https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/",
+      "status": 200,
+      "type": "post",
+      "title": "Controllable Neural Text Generation | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/",
+      "final_url": "https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/",
+      "status": 200,
+      "type": "post",
+      "title": "Reducing Toxicity in Language Models | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-05-31-contrastive/",
+      "final_url": "https://lilianweng.github.io/posts/2021-05-31-contrastive/",
+      "status": 200,
+      "type": "post",
+      "title": "Contrastive Representation Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/",
+      "final_url": "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/",
+      "status": 200,
+      "type": "post",
+      "title": "What are Diffusion Models? | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-09-25-train-large/",
+      "final_url": "https://lilianweng.github.io/posts/2021-09-25-train-large/",
+      "status": 200,
+      "type": "post",
+      "title": "How to Train Really Large Models on Many GPUs? | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/",
+      "final_url": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/",
+      "status": 200,
+      "type": "post",
+      "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2022-02-20-active-learning/",
+      "final_url": "https://lilianweng.github.io/posts/2022-02-20-active-learning/",
+      "status": 200,
+      "type": "post",
+      "title": "Learning with not Enough Data Part 2: Active Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2022-04-15-data-gen/",
+      "final_url": "https://lilianweng.github.io/posts/2022-04-15-data-gen/",
+      "status": 200,
+      "type": "post",
+      "title": "Learning with not Enough Data Part 3: Data Generation | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2022-06-09-vlm/",
+      "final_url": "https://lilianweng.github.io/posts/2022-06-09-vlm/",
+      "status": 200,
+      "type": "post",
+      "title": "Generalized Visual Language Models | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2022-09-08-ntk/",
+      "final_url": "https://lilianweng.github.io/posts/2022-09-08-ntk/",
+      "status": 200,
+      "type": "post",
+      "title": "Some Math behind Neural Tangent Kernel | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+      "final_url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+      "status": 200,
+      "type": "post",
+      "title": "Large Transformer Model Inference Optimization | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/",
+      "final_url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/",
+      "status": 200,
+      "type": "post",
+      "title": "The Transformer Family Version 2.0 | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+      "final_url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+      "status": 200,
+      "type": "post",
+      "title": "Prompt Engineering | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+      "final_url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+      "status": 200,
+      "type": "post",
+      "title": "LLM Powered Autonomous Agents | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+      "final_url": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+      "status": 200,
+      "type": "post",
+      "title": "Adversarial Attacks on LLMs | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+      "final_url": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+      "status": 200,
+      "type": "post",
+      "title": "Thinking about High-Quality Human Data | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
+      "final_url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
+      "status": 200,
+      "type": "post",
+      "title": "Diffusion Models for Video Generation | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+      "final_url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+      "status": 200,
+      "type": "post",
+      "title": "Extrinsic Hallucinations in LLMs | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "final_url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+      "status": 200,
+      "type": "post",
+      "title": "Reward Hacking in Reinforcement Learning | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
+      "final_url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
+      "status": 200,
+      "type": "post",
+      "title": "Why We Think | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+      "final_url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+      "status": 200,
+      "type": "post",
+      "title": "Scaling Laws, Carefully | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "final_url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "status": 200,
+      "type": "post",
+      "title": "Harness Engineering for Self-Improvement | Lil'Log",
+      "toc": true,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/page/2/",
+      "final_url": "https://lilianweng.github.io/posts/page/2/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/page/3/",
+      "final_url": "https://lilianweng.github.io/posts/page/3/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/page/4/",
+      "final_url": "https://lilianweng.github.io/posts/page/4/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/page/5/",
+      "final_url": "https://lilianweng.github.io/posts/page/5/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/posts/page/6/",
+      "final_url": "https://lilianweng.github.io/posts/page/6/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Posts | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/search/",
+      "final_url": "https://lilianweng.github.io/search/",
+      "status": 200,
+      "type": "other",
+      "title": "Search | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/",
+      "final_url": "https://lilianweng.github.io/tags/",
+      "status": 200,
+      "type": "other",
+      "title": "Tags | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/active-learning/",
+      "final_url": "https://lilianweng.github.io/tags/active-learning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Active-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/adversarial-attacks/",
+      "final_url": "https://lilianweng.github.io/tags/adversarial-attacks/",
+      "status": 200,
+      "type": "tag",
+      "title": "Adversarial Attacks | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/agent/",
+      "final_url": "https://lilianweng.github.io/tags/agent/",
+      "status": 200,
+      "type": "tag",
+      "title": "Agent | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/alignment/",
+      "final_url": "https://lilianweng.github.io/tags/alignment/",
+      "status": 200,
+      "type": "tag",
+      "title": "Alignment | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/architecture/",
+      "final_url": "https://lilianweng.github.io/tags/architecture/",
+      "status": 200,
+      "type": "tag",
+      "title": "Architecture | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/attention/",
+      "final_url": "https://lilianweng.github.io/tags/attention/",
+      "status": 200,
+      "type": "tag",
+      "title": "Attention | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/auto-ml/",
+      "final_url": "https://lilianweng.github.io/tags/auto-ml/",
+      "status": 200,
+      "type": "tag",
+      "title": "Auto-ML | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/auto-research/",
+      "final_url": "https://lilianweng.github.io/tags/auto-research/",
+      "status": 200,
+      "type": "tag",
+      "title": "Auto-Research | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/autoencoder/",
+      "final_url": "https://lilianweng.github.io/tags/autoencoder/",
+      "status": 200,
+      "type": "tag",
+      "title": "Autoencoder | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/data-augmentation/",
+      "final_url": "https://lilianweng.github.io/tags/data-augmentation/",
+      "status": 200,
+      "type": "tag",
+      "title": "Data-Augmentation | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/data-generation/",
+      "final_url": "https://lilianweng.github.io/tags/data-generation/",
+      "status": 200,
+      "type": "tag",
+      "title": "Data-Generation | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/data-quality/",
+      "final_url": "https://lilianweng.github.io/tags/data-quality/",
+      "status": 200,
+      "type": "tag",
+      "title": "Data-Quality | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/data/",
+      "final_url": "https://lilianweng.github.io/tags/data/",
+      "status": 200,
+      "type": "tag",
+      "title": "Data | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/evolution/",
+      "final_url": "https://lilianweng.github.io/tags/evolution/",
+      "status": 200,
+      "type": "tag",
+      "title": "Evolution | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/exploration/",
+      "final_url": "https://lilianweng.github.io/tags/exploration/",
+      "status": 200,
+      "type": "tag",
+      "title": "Exploration | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/factuality/",
+      "final_url": "https://lilianweng.github.io/tags/factuality/",
+      "status": 200,
+      "type": "tag",
+      "title": "Factuality | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/foundation/",
+      "final_url": "https://lilianweng.github.io/tags/foundation/",
+      "status": 200,
+      "type": "tag",
+      "title": "Foundation | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/gan/",
+      "final_url": "https://lilianweng.github.io/tags/gan/",
+      "status": 200,
+      "type": "tag",
+      "title": "Gan | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/generative-model/",
+      "final_url": "https://lilianweng.github.io/tags/generative-model/",
+      "status": 200,
+      "type": "tag",
+      "title": "Generative-Model | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/hallucination/",
+      "final_url": "https://lilianweng.github.io/tags/hallucination/",
+      "status": 200,
+      "type": "tag",
+      "title": "Hallucination | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/human-ai/",
+      "final_url": "https://lilianweng.github.io/tags/human-ai/",
+      "status": 200,
+      "type": "tag",
+      "title": "Human-Ai | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/image-generation/",
+      "final_url": "https://lilianweng.github.io/tags/image-generation/",
+      "status": 200,
+      "type": "tag",
+      "title": "Image-Generation | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/information-theory/",
+      "final_url": "https://lilianweng.github.io/tags/information-theory/",
+      "status": 200,
+      "type": "tag",
+      "title": "Information-Theory | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/language-model/",
+      "final_url": "https://lilianweng.github.io/tags/language-model/",
+      "status": 200,
+      "type": "tag",
+      "title": "Language-Model | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/language-model/page/2/",
+      "final_url": "https://lilianweng.github.io/tags/language-model/page/2/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Language-Model | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/learning-dynamics/",
+      "final_url": "https://lilianweng.github.io/tags/learning-dynamics/",
+      "status": 200,
+      "type": "tag",
+      "title": "Learning-Dynamics | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/long-read/",
+      "final_url": "https://lilianweng.github.io/tags/long-read/",
+      "status": 200,
+      "type": "tag",
+      "title": "Long-Read\" | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/math-heavy/",
+      "final_url": "https://lilianweng.github.io/tags/math-heavy/",
+      "status": 200,
+      "type": "tag",
+      "title": "Math-Heavy | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/meta-learning/",
+      "final_url": "https://lilianweng.github.io/tags/meta-learning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Meta-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/neural-tangent-kernel/",
+      "final_url": "https://lilianweng.github.io/tags/neural-tangent-kernel/",
+      "status": 200,
+      "type": "tag",
+      "title": "Neural-Tangent-Kernel | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/nlp/",
+      "final_url": "https://lilianweng.github.io/tags/nlp/",
+      "status": 200,
+      "type": "tag",
+      "title": "Nlp | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/object-detection/",
+      "final_url": "https://lilianweng.github.io/tags/object-detection/",
+      "status": 200,
+      "type": "tag",
+      "title": "Object-Detection | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/object-recognition/",
+      "final_url": "https://lilianweng.github.io/tags/object-recognition/",
+      "status": 200,
+      "type": "tag",
+      "title": "Object-Recognition | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/pretraining/",
+      "final_url": "https://lilianweng.github.io/tags/pretraining/",
+      "status": 200,
+      "type": "tag",
+      "title": "Pretraining | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/prompting/",
+      "final_url": "https://lilianweng.github.io/tags/prompting/",
+      "status": 200,
+      "type": "tag",
+      "title": "Prompting | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/reasoning/",
+      "final_url": "https://lilianweng.github.io/tags/reasoning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Reasoning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/redteam/",
+      "final_url": "https://lilianweng.github.io/tags/redteam/",
+      "status": 200,
+      "type": "tag",
+      "title": "Redteam | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/reinforcement-learning/",
+      "final_url": "https://lilianweng.github.io/tags/reinforcement-learning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Reinforcement-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/reinforcement-learning/page/2/",
+      "final_url": "https://lilianweng.github.io/tags/reinforcement-learning/page/2/",
+      "status": 200,
+      "type": "pagination",
+      "title": "Reinforcement-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/representation-learning/",
+      "final_url": "https://lilianweng.github.io/tags/representation-learning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Representation-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/rlhf/",
+      "final_url": "https://lilianweng.github.io/tags/rlhf/",
+      "status": 200,
+      "type": "tag",
+      "title": "Rlhf | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/rnn/",
+      "final_url": "https://lilianweng.github.io/tags/rnn/",
+      "status": 200,
+      "type": "tag",
+      "title": "Rnn | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/robotics/",
+      "final_url": "https://lilianweng.github.io/tags/robotics/",
+      "status": 200,
+      "type": "tag",
+      "title": "Robotics | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/robustness/",
+      "final_url": "https://lilianweng.github.io/tags/robustness/",
+      "status": 200,
+      "type": "tag",
+      "title": "Robustness | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/safety/",
+      "final_url": "https://lilianweng.github.io/tags/safety/",
+      "status": 200,
+      "type": "tag",
+      "title": "Safety | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/self-improvement/",
+      "final_url": "https://lilianweng.github.io/tags/self-improvement/",
+      "status": 200,
+      "type": "tag",
+      "title": "Self-Improvement | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/steerability/",
+      "final_url": "https://lilianweng.github.io/tags/steerability/",
+      "status": 200,
+      "type": "tag",
+      "title": "Steerability | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/tensorflow/",
+      "final_url": "https://lilianweng.github.io/tags/tensorflow/",
+      "status": 200,
+      "type": "tag",
+      "title": "Tensorflow | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/transformer/",
+      "final_url": "https://lilianweng.github.io/tags/transformer/",
+      "status": 200,
+      "type": "tag",
+      "title": "Transformer | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/tutorial/",
+      "final_url": "https://lilianweng.github.io/tags/tutorial/",
+      "status": 200,
+      "type": "tag",
+      "title": "Tutorial | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/unsupervised-learning/",
+      "final_url": "https://lilianweng.github.io/tags/unsupervised-learning/",
+      "status": 200,
+      "type": "tag",
+      "title": "Unsupervised-Learning | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/video-generation/",
+      "final_url": "https://lilianweng.github.io/tags/video-generation/",
+      "status": 200,
+      "type": "tag",
+      "title": "Video-Generation | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/vision-language-model/",
+      "final_url": "https://lilianweng.github.io/tags/vision-language-model/",
+      "status": 200,
+      "type": "tag",
+      "title": "Vision-Language-Model | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    },
+    {
+      "url": "https://lilianweng.github.io/tags/vision-model/",
+      "final_url": "https://lilianweng.github.io/tags/vision-model/",
+      "status": 200,
+      "type": "tag",
+      "title": "Vision-Model | Lil'Log",
+      "toc": false,
+      "mathjax": true,
+      "comments": []
+    }
+  ]
+}

@@ -1,4 +1,7 @@
-name: Deploy Jekyll site to Pages
+name: Deploy Hugo site to Pages
+
+env:
+  HUGO_VERSION: '0.163.3'
 
 on:
   push:
@@ -21,15 +24,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
-          bundler-cache: true
+          submodules: recursive
+
+      - name: Setup Hugo
+        run: |
+          curl --fail --location --silent --show-error \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.tar.gz" \
+            --output "$RUNNER_TEMP/hugo.tar.gz"
+          echo "ec422258f9a4ffc241de8707297e32311cd86fcc9b2813632617ff4d44935d91  $RUNNER_TEMP/hugo.tar.gz" | sha256sum --check --status
+          tar --extract --gzip --file "$RUNNER_TEMP/hugo.tar.gz" --directory "$RUNNER_TEMP" hugo
 
       - name: Generate site
-        run: bundle exec jekyll build
+        run: '"$RUNNER_TEMP/hugo" --gc --minify'
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -37,7 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: ./public
 
   deploy:
     environment:

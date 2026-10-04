@@ -1,6 +1,11 @@
 ---
-title: About
-permalink: /about/
+title: 关于
+url: /about/
+ShowToc: false
+hideMeta: true
+comments: false
+math: false
+hiddenInRss: true
 ---
 
 你好，我是 `daijunjie`，浙江大学人工智能专业研究生。

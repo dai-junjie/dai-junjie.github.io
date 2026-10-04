@@ -1,11 +1,9 @@
 ---
-title: driver_generation_benchmark
-date: 2026-07-03 09:48:31 +0800
-tags:
-  - agent
-  - benchmark
-  - linux driver
-categories:
+title: "driver_generation_benchmark"
+date: "2026-07-03T09:48:31+08:00"
+tags: ["agent", "benchmark", "linux driver"]
+categories: []
+url: "/drivergenerationbenchmark/"
 ---
 
 

@@ -1,0 +1,97 @@
+{
+  "checked_on": "2026-10-04",
+  "hugo": "0.163.3",
+  "theme_commit": "d3768854d00ad003b0a8dbdba254ce9224377a01",
+  "source_baseline_commit": "2321cd9e71982a615c620a7d03840eef4923940e",
+  "articles": [
+    {
+      "file": "_posts/2026-07-02-markdown-cheatsheet.md",
+      "url": "/markdown-cheatsheet/",
+      "body_sha256_before": "99679e9f928f298b239e7022aa44d78dde3565b27290c568a494f1188fd7aba5",
+      "body_sha256_after": "99679e9f928f298b239e7022aa44d78dde3565b27290c568a494f1188fd7aba5",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-01-first-demo.md",
+      "url": "/first-demo/",
+      "body_sha256_before": "b1ef209d6c84b8885a6ee99586723b56b218777d3399833f6189f9a90bbaa64d",
+      "body_sha256_after": "b1ef209d6c84b8885a6ee99586723b56b218777d3399833f6189f9a90bbaa64d",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-01-agent-quality-issue.md",
+      "url": "/agent-quality-issue/",
+      "body_sha256_before": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "body_sha256_after": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-01-loop-engineering.md",
+      "url": "/loop-engineering/",
+      "body_sha256_before": "85a964aa7193cbd55ba8167628eff7e6ba5af4e73e99b1ae0d68b20e9d7ae1cf",
+      "body_sha256_after": "85a964aa7193cbd55ba8167628eff7e6ba5af4e73e99b1ae0d68b20e9d7ae1cf",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-03-drivergenerationbenchmark.md",
+      "url": "/drivergenerationbenchmark/",
+      "body_sha256_before": "49415db6aee65430d8522a06a8c0279195eb50f7335cabe64c031774dd7d4446",
+      "body_sha256_after": "49415db6aee65430d8522a06a8c0279195eb50f7335cabe64c031774dd7d4446",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-05-逻辑模组-迷茫的底层真相.md",
+      "url": "/逻辑模组-迷茫的底层真相/",
+      "body_sha256_before": "ce19d4341cf52c584d9cdbd144e71dff797452e901ea6ff0070595eea9532c5a",
+      "body_sha256_after": "ce19d4341cf52c584d9cdbd144e71dff797452e901ea6ff0070595eea9532c5a",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-05-关于驱动生成这次科研课题的总结.md",
+      "url": "/关于驱动生成这次科研课题的总结/",
+      "body_sha256_before": "0ff3710ffb3284be530e500d56f140de4bf004aaf8a60657ca29e1547a411ee0",
+      "body_sha256_after": "0ff3710ffb3284be530e500d56f140de4bf004aaf8a60657ca29e1547a411ee0",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-07-11-不要向-Agent-许愿：科研中使用-AI-的真正难点是明确自己的意图.md",
+      "url": "/不要向-Agent-许愿-科研中使用-AI-的真正难点是明确自己的意图/",
+      "body_sha256_before": "18433a56b282c6618c99bfb879ddf0d1444e6ef310cb3308a0bfd3b002b3f6c4",
+      "body_sha256_after": "18433a56b282c6618c99bfb879ddf0d1444e6ef310cb3308a0bfd3b002b3f6c4",
+      "metadata_preserved": true
+    },
+    {
+      "file": "_posts/2026-10-01-如何看待AI工具.md",
+      "url": "/如何看待AI工具/",
+      "body_sha256_before": "422c14a84fa744c4929104223feae1c4ee08d23f444354d5a5bd41151e14dd47",
+      "body_sha256_after": "422c14a84fa744c4929104223feae1c4ee08d23f444354d5a5bd41151e14dd47",
+      "metadata_preserved": true
+    }
+  ],
+  "original_image_sha256": {
+    "Google Chrome 2026-07-04 17.39.59.png": "b8d05a9a876af3f3a9439d59959ec01ffee1f11003d7c7865ef9e3ec922aa02e",
+    "avatar.jpg": "c48a1b252305181c7ae5861598e03def44751e9552e4fff02f2c8ac36ca965a8",
+    "2026-07-01-loop-engineering_2026-07-02-12-31-50.png": "a059c23d4325d384bb469e36534b05a838ed187ea27b8abc87b2b04d95ed9548",
+    "Google Chrome 2026-07-04 17.39.56.png": "140fbd22a6e0aae306a299183cae70952dd8b991ec5b1b27183e49af12343c37"
+  },
+  "rss_articles": 9,
+  "local_links_checked": 785,
+  "generated_html_files": 48,
+  "missing_targets": 0,
+  "search_queries_verified": [
+    "控制论",
+    "driver",
+    "loop"
+  ],
+  "render_smoke_tests": [
+    "relative image URLs",
+    "image filenames containing spaces",
+    "TeX passthrough",
+    "HTML",
+    "Giscus pathname attributes with configured IDs"
+  ],
+  "browser_visual_check": "Not run: browser approval policy rejected reading the existing localhost tab.",
+  "github_actions_run": "Not run: migration has not been pushed or published.",
+  "http_urls_checked": 31,
+  "http_status": 200
+}

@@ -1,0 +1,19 @@
+.first-entry.home-info {
+  min-height: unset;
+  margin: 0 0 var(--gap);
+}
+
+.home-info .entry-content p {
+  margin-block: 8px;
+}
+
+.post-title {
+  font-size: 36px;
+}
+
+.post-content pre.mermaid {
+  background: #fff;
+  color: #1f1f1f;
+  text-align: center;
+  white-space: normal;
+}

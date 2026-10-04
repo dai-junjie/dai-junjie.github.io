@@ -1,10 +1,9 @@
 ---
-title: 提升agent能力——loop engineering
-date: 2026-07-01 23:49:22 +0800
-tags:
-  - agent
-categories:
-  - agent
+title: "提升agent能力——loop engineering"
+date: "2026-07-01T23:49:22+08:00"
+tags: ["agent"]
+categories: ["agent"]
+url: "/loop-engineering/"
 ---
 
 > 推荐文章：[谈当前Agent执行Long-Horizon任务的体验与经验](https://zhuanlan.zhihu.com/p/2011773245846746312)、[提升Agent能力——上下文工程](https://qiankunli.github.io/2026/06/22/loop_engineer.html)

@@ -1,23 +1,5 @@
 #!/bin/bash
-set -o pipefail
+set -euo pipefail
 
-JEKYLL_ENV=production bundle exec jekyll serve --livereload "$@" 2>&1 | while IFS= read -r line; do
-  case "$line" in
-    *"Deprecation Warning"*|\
-    *"sass-lang.com"*|\
-    *"root stylesheet"*|\
-    *"@import"*|\
-    *"ECONNRESET"*|\
-    *"To use retry"*|\
-    *"╷"*|\
-    *"╵"*|\
-    *"│"*|\
-    *"^^^^^^^^^^"*|\
-    *"webrick"*|\
-    *"WEBrick"*|\
-    *"httpserver"*|\
-    *"io_fillbuf"*)
-      continue ;;
-  esac
-  echo "$line"
-done
+cd "$(dirname "$0")/.."
+exec hugo server --destination .hugo-preview "$@"

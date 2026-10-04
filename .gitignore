@@ -11,5 +11,8 @@ db.json
 .obsidian/
 node_modules/
 public/
+.hugo-preview/
 .deploy*/
 _multiconfig.yml
+.hugo_build.lock
+resources/_gen/
