@@ -1,9 +1,12 @@
 ---
-title: "Jekyll Markdown 语法手册"
-date: "2026-07-01T00:00:00+08:00"
-tags: ["guide"]
-categories: ["blog"]
-url: "/markdown-cheatsheet/"
+title: Jekyll Markdown 语法手册
+date: 2026-07-01T00:00:00+08:00
+tags:
+  - guide
+categories:
+  - blog
+url: /markdown-cheatsheet/
+draft: "true"
 ---
 
 本博客支持的 Markdown 语法全览，持续更新。

@@ -1,5 +1,5 @@
 baseURL: https://dai-junjie.github.io/
-title: "Junjie's Blog"
+title: "jj's Blog"
 theme: PaperMod
 defaultContentLanguage: zh
 locale: zh-CN
@@ -26,7 +26,7 @@ outputs:
 
 params:
   env: production
-  author: daijunjie
+  author: jj
   description: 技术笔记与思考
   defaultTheme: auto
   disableThemeToggle: false

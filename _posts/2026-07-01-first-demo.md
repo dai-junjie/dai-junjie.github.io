@@ -1,9 +1,13 @@
 ---
-title: "先写一个 Demo"
-date: "2026-07-01T17:35:00+08:00"
-tags: ["demo", "hexo"]
-categories: ["blog"]
-url: "/first-demo/"
+title: 先写一个 Demo
+date: 2026-07-01T17:35:00+08:00
+tags:
+  - demo
+  - hexo
+categories:
+  - blog
+url: /first-demo/
+draft: "true"
 ---
 
 这是博客的第一篇示例文章。
